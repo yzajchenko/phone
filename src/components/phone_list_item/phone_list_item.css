@@ -1,0 +1,14 @@
+.phone_img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.title{
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.phone_img>img{
+    display: block;
+    margin: auto;
+}
