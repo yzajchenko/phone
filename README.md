@@ -1,4 +1,5 @@
 React приложение можно посмотреть https://react-app-88231.web.app/
+
 Функционал использованный в приложении:
  - React context;
  - Redux;
