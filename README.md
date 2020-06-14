@@ -1,5 +1,5 @@
 React приложение можно посмотреть https://react-app-88231.web.app/
-Функционал разработанный в приложении:
+Функционал использованный в приложении:
  - React context;
  - Redux;
  - Higher-Order Component(HOC);
